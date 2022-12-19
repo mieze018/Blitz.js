@@ -25,7 +25,7 @@
   },
   "dependencies": {
     "@blitzjs/auth": "2.0.0-beta.14",
-    "@blitzjs/next": "2.0.0-beta.14",
+    "@blitzjs/next": "2.0.0-beta.20",
     "@blitzjs/rpc": "2.0.0-beta.14",
     "@prisma/client": "4.5.0",
     "blitz": "2.0.0-beta.14",
