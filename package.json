@@ -27,7 +27,7 @@
     "@blitzjs/auth": "2.0.0-beta.14",
     "@blitzjs/next": "2.0.0-beta.14",
     "@blitzjs/rpc": "2.0.0-beta.14",
-    "@prisma/client": "4.5.0",
+    "@prisma/client": "4.8.1",
     "blitz": "2.0.0-beta.14",
     "next": "12.2.5",
     "prisma": "4.0.0",
